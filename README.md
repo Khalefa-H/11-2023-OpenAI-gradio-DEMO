@@ -4,7 +4,7 @@
 
 ## Overview
 This project integrates Gradio, a Python library for creating customizable UI components for machine learning models, with OpenAI's powerful language model, GPT-4. It provides a simple and interactive chat interface where users can converse with the AI model.
-
+![Gradio Demo](demo.gif)
 ## Features
 - Interactive chat interface using Gradio.
 - Integration with OpenAI's GPT-4 model for generating responses.
